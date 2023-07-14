@@ -7,7 +7,11 @@
   <li>[d] Depositar</li>
   <li>[s] Sacar</li>
   <li>[e] Extrato</li>
+  <li>[nc] Nova conta </li>
+  <li>[lc] Listar Contas </li>
+  <li>[nu] Novo usuário </li>
   <li>[q] Sair
+   
 
 </ul>
 
